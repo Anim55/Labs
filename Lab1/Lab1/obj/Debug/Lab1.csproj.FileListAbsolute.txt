@@ -1,0 +1,10 @@
+E:\Anim55\University\C#\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Anim55\University\C#\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Anim55\University\C#\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Anim55\University\C#\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\Anim55\University\C#\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Anim55\University\C#\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Anim55\University\C#\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+E:\Anim55\University\C#\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Anim55\University\C#\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Anim55\University\C#\Lab1\Lab1\obj\Debug\Lab1.pdb
